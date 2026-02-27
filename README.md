@@ -43,17 +43,16 @@ My GitHub reflects my journey, from data-related projects to coursework and expe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab-original" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="30" height="30"/>
 
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api username=YOUR_USERNAME&show_icons=true&theme=radical)
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
           
 </p>
