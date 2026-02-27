@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 I’m a Computer Science student with a growing interest in data analysis and databases based in Slovenia.
 
 While I’m still learning, I enjoy working on projects across different areas of technology to explore various fields and strengthen my foundation. 
-My GitHub reflects my journey — from data-related projects to coursework and experiments — as I continuously build skills, gain practical experience, and improve one project at a time.
+
+My GitHub reflects my journey, from data-related projects to coursework and experiments, as I continuously build skills, gain practical experience, and improve one project at a time.
 
 
-## 🚀 &nbsp;Some Tools I Have Used and Learned
+## 🚀 Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
@@ -36,7 +37,7 @@ My GitHub reflects my journey — from data-related projects to coursework and e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c-original" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" alt="c-original" width="30" height="30"/>
           
           
           
