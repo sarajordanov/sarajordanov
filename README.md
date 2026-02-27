@@ -44,3 +44,5 @@ My GitHub reflects my journey, from data-related projects to coursework and expe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="30" height="30"/>          
 </p>
 
+<img src="https://github-readme-stats-git-master-sarajordanov.vercel.app/api?username=sarajordanov&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
+
