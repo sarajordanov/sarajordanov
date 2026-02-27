@@ -48,5 +48,4 @@ My GitHub reflects my journey, from data-related projects to coursework and expe
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarajordanov&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarajordanov&show_icons=true&theme=radical&count_private=true)
