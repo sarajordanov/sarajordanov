@@ -43,3 +43,11 @@ My GitHub reflects my journey, from data-related projects to coursework and expe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab-original" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="30" height="30"/>          
 </p>
+
+
+
+
+## GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarajordanov&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarajordanov&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarajordanov&theme=radical)
