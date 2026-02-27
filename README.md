@@ -22,8 +22,8 @@ While I’m still learning, I enjoy working on projects across different areas o
 My GitHub reflects my journey — from data-related projects to coursework and experiments — as I continuously build skills, gain practical experience, and improve one project at a time.
 
 
-<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
+## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" alt="bash" width="30" height="30"/>
 </p>
