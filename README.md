@@ -24,6 +24,8 @@ While I’m still learning, I enjoy working on projects across different areas o
 My GitHub reflects my journey, from data-related projects to coursework and experiments, as I continuously build skills, gain practical experience, and improve one project at a time.
 
 
+I’m also passionate about design and creative work, and I occasionally take on freelance or side projects in that space. You can find some of my past design work on my Behance profile (which I put the link on my git profile). Although I don’t have new design projects at the moment due to university commitments, I continue to explore creative ideas alongside my studies.
+<br>
 ## 🚀 Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
