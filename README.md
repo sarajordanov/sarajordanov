@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sara from Skopje, Macedonia based in Koper, Slovenia.
-
-I’m a Computer Science student with a growing interest in data analysis and databases.
+I'm Sara from Skopje, Macedonia. 
+I’m a Computer Science student based in Koper, Slovenia with a growing interest in data analysis and databases.
 
 While I’m still learning, I enjoy working on projects across different areas of technology to explore various fields and strengthen my foundation. 
 
