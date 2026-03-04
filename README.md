@@ -34,6 +34,7 @@ I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science stu
 
 ## Beyond Code
 I also have a strong interest in design and creative work, logo design, UI/UX, poster and banner designs... I occasionally take on freelance and independent projects in this area. Some of my previous design work is available through my **Behance profile, which is linked on my GitHub page**.
+
 While I am not currently producing new design projects due to academic commitments, I remain interested in developing my creative skills and exploring new ideas alongside my studies.
 
 
