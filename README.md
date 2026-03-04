@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science student based in Koper, Slovenia with a growing interest in **data analysis** and **databases.** While I’m still learning, I enjoy working on projects across different areas of technology to explore various fields and strengthen my foundation. 
 
+📫 Reach me at: sara_jordanov@yahoo.com
+
 <br>
 
 ## Skills
