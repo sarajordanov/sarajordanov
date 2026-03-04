@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hello there ... 😄
 
-I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science student based in Koper, Slovenia with a growing interest in **data analysis** and **databases.** While I’m still learning, I work on projects across different areas of technology to explore various fields and strengthen my foundation. 
+I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science student based in Koper, Slovenia with a growing interest in **data analysis** and **databases.** While I’m still learning, I work on projects across different areas of technology to explore various fields and strengthen my foundation.
 
 📫 Contact: sara_jordanov@yahoo.com
 
@@ -33,7 +33,7 @@ I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science stu
 <br>
 
 ## Beyond Code
-I also have a strong interest in design and creative work, and I occasionally take on freelance and independent projects in this area. Some of my previous design work is available through my **Behance profile, which is linked on my GitHub page**. 
+I also have a strong interest in design and creative work, logo design, UI/UX, poster and banner designs... I occasionally take on freelance and independent projects in this area. Some of my previous design work is available through my **Behance profile, which is linked on my GitHub page**.
 While I am not currently producing new design projects due to academic commitments, I remain interested in developing my creative skills and exploring new ideas alongside my studies.
 
 
