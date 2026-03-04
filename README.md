@@ -21,12 +21,12 @@ I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science stu
 <br>
 
 ## Skills
-Programming Languages: Python, Java, C++, C, C#, JavaScript, OCaml
-Web Development: HTML, CSS
-Databases & Data: MySQL, Kaggle
-Tools & Version Control: Git, GitLab, Bash, VS Code, IntelliJ IDEA
-Basics of data analysis: Excel, Tableau
-Design & Creative Tools: Figma, Adobe Illustrator, Adobe Photoshop, InVision
+- Programming Languages: Python, Java, C++, C, C#, JavaScript, OCaml
+- Web Development: HTML, CSS
+- Databases & Data: MySQL, Kaggle
+- Tools & Version Control: Git, GitLab, Bash, VS Code, IntelliJ IDEA
+- Basics of data analysis: Excel, Tableau
+- Design & Creative Tools: Figma, Adobe Illustrator, Adobe Photoshop, InVision
 
 <br>
 
