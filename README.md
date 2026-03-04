@@ -20,7 +20,7 @@ I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science stu
 
 <br>
 
-## Skills
+### Skills
 - Programming Languages: Python, Java, C++, C, C#, JavaScript, OCaml
 - Web Development: HTML, CSS
 - Databases & Data: MySQL, Kaggle
