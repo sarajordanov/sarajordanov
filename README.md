@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Hello there ... 😄
 
 I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science student based in Koper, Slovenia with a growing interest in **data analysis** and **databases.** While I’m still learning, I work on projects across different areas of technology to explore various fields and strengthen my foundation. 
+
 📫 Contact: sara_jordanov@yahoo.com
 
 <br>
