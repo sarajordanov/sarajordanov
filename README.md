@@ -1,4 +1,4 @@
-## Hi there👋 
+## Hello there... 
 
 <!--
 **sarajordanov/sarajordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,39 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm Sara from Skopje, Macedonia. 
-I’m a Computer Science student based in Koper, Slovenia with a growing interest in data analysis and databases.
-
+## About me
+I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science student based in Koper, Slovenia with a growing interest in data analysis and databases.
 While I’m still learning, I enjoy working on projects across different areas of technology to explore various fields and strengthen my foundation. 
 
-My GitHub reflects my journey, from data-related projects to coursework and experiments, as I continuously build skills, gain practical experience, and improve one project at a time.
+
+## Skills
+
+Programming Languages: Python, Java, C++, C, C#, JavaScript, OCaml
+
+Web Development: HTML, CSS
+
+Databases & Data: MySQL, Kaggle
+
+Tools & Version Control: Git, GitLab, Bash, VS Code, IntelliJ IDEA
+
+Basics of data analysis: Excel, Tableau
+
+Design & Creative Tools: Figma, Adobe Illustrator, Adobe Photoshop, InVision
 
 
-I’m also passionate about design and creative work, and I occasionally take on freelance or side projects in that space. You can find some of my past design work on my Behance profile (which I put the link on my git profile). Although I don’t have new design projects at the moment due to university commitments, I continue to explore creative ideas alongside my studies.
-<br>
-## 🚀 Some Tools I Have Used and Learned
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" alt="csharp" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="ocaml" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" alt="c-original" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git-original" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab-original" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="30" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="illustrator-original" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop-original" width="30" height="30"/>
-          
-            
-</p>
+### Beyond Code
+I also have a strong interest in design and creative work, and I occasionally take on freelance and independent projects in this area. Some of my previous design work is available through my Behance profile, which is linked on my GitHub page. While I am not currently producing new design projects due to academic commitments, I remain interested in developing my creative skills and exploring new ideas alongside my studies.
 
 
