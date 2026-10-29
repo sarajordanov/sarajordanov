@@ -27,7 +27,7 @@ I'm Sara Jordanov from Skopje, Macedonia. I’m currently a Computer Science stu
 - **Web Development:** HTML, CSS
 - **Databases & Data:** MySQL, Kaggle
 - **Tools & Version Control:** Git, GitLab, Bash, VS Code, IntelliJ IDEA
-- **Basics of data analysis:** Excel, Tableau
+- **Basics of data analysis:** Excel, Tableau, PowerBI
 - **Design & Creative Tools:** Figma, Adobe Illustrator, Adobe Photoshop, InVision, AutoCAD 
 
 <br>
